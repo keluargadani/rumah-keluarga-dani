@@ -137,7 +137,7 @@
       "topik": ["Dongeng", "Fabel", "Cerita rakyat"],
       "akun": [
         { "platform": "youtube", "link": "" },
-        { "platform": "instagram", "link": "" },
+        { "platform": "instagram", "link": "https://www.instagram.com/rahmirahmdni/" },
         { "platform": "tiktok", "link": "" }
       ],
       "video": []
