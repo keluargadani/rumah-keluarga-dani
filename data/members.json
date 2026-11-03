@@ -15,6 +15,11 @@
         { "platform": "tiktok", "link": "" }
       ],
       "video": [
+        { "judul": "Uang sama, belanjaan menyusut?", "link": "https://www.youtube.com/shorts/0uJAygwFR24", "platform": "youtube", "tanggal": "2026-11-03", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "BI: Inflasi", "link": "https://www.bi.go.id/id/fungsi-utama/moneter/inflasi/default.aspx" }
+          ]
+        },
         { "judul": "Apa itu mesin EDC?", "link": "https://www.youtube.com/shorts/aeVjSPOD3ik", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
           "sumber": [
             { "judul": "OJK Sikapi Uangmu: Hindari Double Swipe", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/10401" },
