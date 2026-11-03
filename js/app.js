@@ -303,7 +303,9 @@ const pasangKerangka = (data, halaman, idAnggota) => {
         el(
           "nav",
           { "aria-label": "Ruangan" },
-          tautan("index.html", "Beranda", "beranda"),
+          tautan("index.html", "Menu awal", "menu"),
+          tautan("index.html#main", "Jalan-jalan", "dunia"),
+          tautan("beranda.html", "Beranda", "beranda"),
           tautan("ruang-tamu.html", "Ruang Tamu", "ruang-tamu"),
           menuKamar,
           tautan("galeri.html", "Galeri", "galeri"),
@@ -339,7 +341,12 @@ const halamanBeranda = (data, utama) => {
           {},
           "Di rumah ini semua video keluarga dikumpulkan. Ada Pak Dani dengan urusan uang, Bu Dani dengan urusan rumah, Afdi dengan tips dan obrolan anak muda, dan Gempi dengan dongengnya.",
         ),
-        el("a", { class: "tombol tombol-besar", href: "ruang-tamu.html" }, "Masuk ke Ruang Tamu"),
+        el(
+          "div",
+          { class: "baris-akun" },
+          el("a", { class: "tombol tombol-besar", href: "index.html#main" }, "Jalan-jalan di rumah"),
+          el("a", { class: "tombol tombol-besar", href: "ruang-tamu.html" }, "Masuk ke Ruang Tamu"),
+        ),
       ),
       el("img", {
         class: "depan-gambar",
@@ -467,8 +474,12 @@ const halamanGaleri = (data, utama) => {
 
 // ---------- Mulai ----------
 
+// Dunia 3D (js/dunia/main.js) memakai komponen yang sama untuk panel profil dan video.
+window.RumahDani = { el, daftarVideo, kartuVideo, tautanAkun, semuaVideo, urutTerbaru, urlKamar, saringan, namaPlatform };
+
 const mulai = async () => {
   const halaman = document.body.dataset.halaman;
+  if (halaman === "dunia") return;
   const utama = document.querySelector("main");
   const idAnggota = new URLSearchParams(location.search).get("anggota");
   try {

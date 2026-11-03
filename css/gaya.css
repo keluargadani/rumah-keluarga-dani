@@ -116,6 +116,7 @@ main > div {
 
 .atap nav {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 0.15rem;
   margin-inline: -0.5rem;
