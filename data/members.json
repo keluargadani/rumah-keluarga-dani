@@ -121,7 +121,7 @@
       "topik": ["Tips game", "Masalah remaja", "Perbaikan rumah"],
       "akun": [
         { "platform": "youtube", "link": "" },
-        { "platform": "instagram", "link": "" },
+        { "platform": "instagram", "link": "https://www.instagram.com/afdiafdani/" },
         { "platform": "tiktok", "link": "" }
       ],
       "video": []
