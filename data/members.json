@@ -80,7 +80,7 @@
             { "judul": "BI: Daftar Hitam Nasional", "link": "https://www.bi.go.id/id/archive/kodifikasi-peraturan/Documents/Daftar%20Hitam%20Nasional.pdf" }
           ]
         },
-        { "judul": "Gimana sih cara Bank bekerja?", "link": "https://www.youtube.com/shorts/FEfnkP2THxY", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+        { "judul": "Gimana sih cara Bank bekerja?", "link": "https://www.youtube.com/shorts/FEfnkP2THxY", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": true,
           "sumber": [
             { "judul": "OJK: Bank Umum", "link": "https://ojk.go.id/id/kanal/perbankan/Pages/Bank-Umum.aspx" },
             { "judul": "OJK: Tugas dan Fungsi", "link": "https://ojk.go.id/id/tentang-ojk/pages/tugas-dan-fungsi.aspx" },
