@@ -14,7 +14,17 @@
         { "platform": "instagram", "link": "" },
         { "platform": "tiktok", "link": "" }
       ],
-      "video": []
+      "video": [
+        { "judul": "Apa itu mesin EDC?", "link": "https://www.youtube.com/shorts/aeVjSPOD3ik", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
+        { "judul": "Apa itu qris statis & dinamis", "link": "https://www.youtube.com/shorts/gZeLc7ISulY", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
+        { "judul": "Apa itu OJK", "link": "https://www.youtube.com/shorts/YoferIj6Db0", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
+        { "judul": "Apa itu LPS / Lembaga Penjamin Simpanan?", "link": "https://www.youtube.com/shorts/MFF7vCnkAVM", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
+        { "judul": "Kenapa bunga kredit bisa naik & turun?", "link": "https://www.youtube.com/shorts/DxK73IqX1ow", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
+        { "judul": "Apa itu likuiditas?", "link": "https://www.youtube.com/shorts/7u-dFp_ECak", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
+        { "judul": "Apa itu tabungan deposito?", "link": "https://www.youtube.com/shorts/4YeyhHzlegg", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
+        { "judul": "Apa itu tabungan giro?", "link": "https://www.youtube.com/shorts/QwSBW1Em8tg", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
+        { "judul": "Gimana sih cara Bank bekerja?", "link": "https://www.youtube.com/shorts/FEfnkP2THxY", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false }
+      ]
     },
     {
       "id": "bu-dani",
