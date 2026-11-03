@@ -1,0 +1,84 @@
+{
+  "anggota": [
+    {
+      "id": "pak-dani",
+      "nama": "Pak Dani",
+      "ruang": "Kamar Pak Dani",
+      "foto": "assets/anggota/pak-dani.jpg",
+      "warna": "#2BA89B",
+      "sifat": "Santai, kebapakan, suka usil",
+      "deskripsi": "Bapak di rumah ini. Urusan uang yang kedengarannya rumit, Pak Dani jelaskan sambil santai di gang kampung, dari cara kerja bank sampai kenapa harga naik.",
+      "topik": ["Keuangan", "Ekonomi", "Bank", "Crypto", "Investasi"],
+      "akun": [
+        { "platform": "youtube", "link": "" },
+        { "platform": "instagram", "link": "" },
+        { "platform": "tiktok", "link": "" }
+      ],
+      "video": []
+    },
+    {
+      "id": "bu-dani",
+      "nama": "Bu Dani",
+      "ruang": "Kamar Bu Dani",
+      "foto": "assets/anggota/bu-dani.jpg",
+      "warna": "#E8586F",
+      "sifat": "Peduli keluarga, tidak kaku, santai",
+      "deskripsi": "Yang paling tahu isi rumah. Dari dapur, Bu Dani berbagi cara masak, mencuci, merawat rumah, dan merawat keluarga saat sakit ringan.",
+      "topik": ["Memasak", "Mencuci", "Perawatan rumah", "Merawat keluarga"],
+      "akun": [
+        { "platform": "youtube", "link": "" },
+        { "platform": "instagram", "link": "" },
+        { "platform": "tiktok", "link": "" }
+      ],
+      "video": []
+    },
+    {
+      "id": "afdi",
+      "nama": "Afdi",
+      "ruang": "Kamar Afdi",
+      "foto": "assets/anggota/afdi.jpg",
+      "warna": "#2F4FA8",
+      "sifat": "Wawasan luas, asik, gampang menyesuaikan diri",
+      "deskripsi": "Anak sulung, 20 tahun, yang nyambung dari obrolan gang sampai dunia kantor. Di kamarnya ada tips game, obrolan soal masalah remaja, dan perbaikan sederhana di rumah.",
+      "topik": ["Tips game", "Masalah remaja", "Perbaikan rumah"],
+      "akun": [
+        { "platform": "youtube", "link": "" },
+        { "platform": "instagram", "link": "" },
+        { "platform": "tiktok", "link": "" }
+      ],
+      "video": []
+    },
+    {
+      "id": "rahmi",
+      "nama": "Rahmi",
+      "ruang": "Kamar Rahmi",
+      "foto": "assets/anggota/rahmi.jpg",
+      "warna": "#8A63C9",
+      "sifat": "Pintar, ceria, penuh imajinasi, pandai seni",
+      "deskripsi": "Si bungsu, 11 tahun, yang kamarnya penuh cat dan buku. Rahmi mendongeng fabel ala si Kancil dengan tema yang lebih dalam, seperti tipu daya, kerakusan, dan pilihan sulit.",
+      "topik": ["Dongeng", "Fabel", "Cerita rakyat"],
+      "akun": [
+        { "platform": "youtube", "link": "" },
+        { "platform": "instagram", "link": "" },
+        { "platform": "tiktok", "link": "" }
+      ],
+      "video": []
+    },
+    {
+      "id": "keluarga",
+      "nama": "Keluarga Dani",
+      "ruang": "Ruang Tengah",
+      "foto": "assets/anggota/keluarga.jpg",
+      "warna": "#E59A1E",
+      "sifat": "Tempat semua anggota berkumpul",
+      "deskripsi": "Akun bersama sekeluarga. Di sini mereka belajar hal baru bersama, misalnya mengenal hewan-hewan di kebun binatang.",
+      "topik": ["Pengetahuan bersama", "Hewan"],
+      "akun": [
+        { "platform": "youtube", "link": "" },
+        { "platform": "instagram", "link": "" },
+        { "platform": "tiktok", "link": "" }
+      ],
+      "video": []
+    }
+  ]
+}

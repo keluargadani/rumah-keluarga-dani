@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img">
+  <rect width="720" height="560" fill="#c9ecfb"/>
+  <!-- Awan -->
+  <g fill="#fff">
+    <rect x="70" y="50" width="120" height="30"/><rect x="100" y="30" width="60" height="20"/>
+    <rect x="540" y="80" width="110" height="26"/><rect x="565" y="62" width="50" height="18"/>
+  </g>
+  <!-- Pohon di belakang rumah -->
+  <rect x="610" y="240" width="26" height="170" fill="#7a5234"/>
+  <rect x="560" y="150" width="130" height="110" fill="#5fae6b"/><rect x="580" y="120" width="90" height="40" fill="#74bf7e"/>
+  <rect x="48" y="270" width="22" height="140" fill="#7a5234"/>
+  <rect x="10" y="190" width="100" height="90" fill="#74bf7e"/>
+  <!-- Dinding -->
+  <rect x="110" y="210" width="500" height="230" fill="#fbe3b5"/>
+  <rect x="110" y="400" width="500" height="40" fill="#d9a877"/>
+  <!-- Atap genteng -->
+  <polygon points="360,70 660,214 60,214" fill="#c1602f"/>
+  <g stroke="#8f3f1e" stroke-width="4">
+    <line x1="290" y1="104" x2="430" y2="104"/>
+    <line x1="228" y1="134" x2="492" y2="134"/>
+    <line x1="166" y1="164" x2="554" y2="164"/>
+    <line x1="104" y1="194" x2="616" y2="194"/>
+  </g>
+  <rect x="60" y="214" width="600" height="14" fill="#8f3f1e"/>
+  <!-- Bendera kecil -->
+  <g>
+    <path d="M110 240 Q360 288 610 240" fill="none" stroke="#7a5234" stroke-width="3"/>
+    <polygon points="160,249 186,254 170,278" fill="#d9363e"/>
+    <polygon points="220,260 246,264 231,288" fill="#fff"/>
+    <polygon points="280,267 306,269 292,293" fill="#d9363e"/>
+    <polygon points="340,270 366,270 353,296" fill="#fff"/>
+    <polygon points="400,269 426,267 414,293" fill="#d9363e"/>
+    <polygon points="460,264 486,260 475,288" fill="#fff"/>
+    <polygon points="520,254 546,249 536,278" fill="#d9363e"/>
+  </g>
+  <!-- Pintu -->
+  <rect x="312" y="290" width="96" height="150" fill="#7a5234"/>
+  <rect x="320" y="298" width="80" height="142" fill="#2a9d8f"/>
+  <rect x="332" y="312" width="56" height="48" fill="#238577"/>
+  <rect x="332" y="372" width="56" height="54" fill="#238577"/>
+  <circle cx="390" cy="368" r="6" fill="#f0c23c"/>
+  <!-- Jendela kiri -->
+  <g>
+    <rect x="160" y="300" width="104" height="84" fill="#7a5234"/>
+    <rect x="168" y="308" width="88" height="68" fill="#d6f1fb"/>
+    <rect x="210" y="308" width="4" height="68" fill="#7a5234"/>
+    <rect x="168" y="308" width="22" height="68" fill="#e8586f"/>
+    <rect x="234" y="308" width="22" height="68" fill="#e8586f"/>
+  </g>
+  <!-- Jendela kanan -->
+  <g>
+    <rect x="456" y="300" width="104" height="84" fill="#7a5234"/>
+    <rect x="464" y="308" width="88" height="68" fill="#d6f1fb"/>
+    <rect x="506" y="308" width="4" height="68" fill="#7a5234"/>
+    <rect x="464" y="308" width="22" height="68" fill="#e8586f"/>
+    <rect x="530" y="308" width="22" height="68" fill="#e8586f"/>
+  </g>
+  <!-- Halaman dan jalan -->
+  <rect y="440" width="720" height="120" fill="#e8dcc6"/>
+  <rect y="436" width="720" height="10" fill="#c9b79a"/>
+  <polygon points="312,446 408,446 470,560 250,560" fill="#d4c4a8"/>
+  <!-- Pot tanaman -->
+  <g>
+    <rect x="256" y="404" width="40" height="36" fill="#b5532a"/>
+    <rect x="248" y="366" width="56" height="40" fill="#5fae6b"/>
+    <rect x="262" y="348" width="28" height="20" fill="#74bf7e"/>
+    <rect x="424" y="404" width="40" height="36" fill="#b5532a"/>
+    <rect x="416" y="366" width="56" height="40" fill="#5fae6b"/>
+    <rect x="430" y="348" width="28" height="20" fill="#74bf7e"/>
+  </g>
+  <!-- Pagar rendah -->
+  <g fill="#fff" stroke="#c9b79a" stroke-width="2">
+    <rect x="30" y="480" width="16" height="70"/><rect x="74" y="480" width="16" height="70"/>
+    <rect x="118" y="480" width="16" height="70"/><rect x="162" y="480" width="16" height="70"/>
+    <rect x="20" y="500" width="196" height="12"/>
+    <rect x="544" y="480" width="16" height="70"/><rect x="588" y="480" width="16" height="70"/>
+    <rect x="632" y="480" width="16" height="70"/><rect x="676" y="480" width="16" height="70"/>
+    <rect x="510" y="500" width="196" height="12"/>
+  </g>
+</svg>
