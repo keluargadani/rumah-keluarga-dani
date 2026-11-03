@@ -337,7 +337,7 @@ const halamanBeranda = (data, utama) => {
         el(
           "p",
           {},
-          "Di rumah ini semua video keluarga dikumpulkan. Ada Pak Dani dengan urusan uang, Bu Dani dengan urusan rumah, Afdi dengan tips dan obrolan anak muda, dan Rahmi dengan dongengnya.",
+          "Di rumah ini semua video keluarga dikumpulkan. Ada Pak Dani dengan urusan uang, Bu Dani dengan urusan rumah, Afdi dengan tips dan obrolan anak muda, dan Gempi dengan dongengnya.",
         ),
         el("a", { class: "tombol tombol-besar", href: "ruang-tamu.html" }, "Masuk ke Ruang Tamu"),
       ),

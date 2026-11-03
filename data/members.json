@@ -140,13 +140,13 @@
       ]
     },
     {
-      "id": "rahmi",
-      "nama": "Rahmi",
-      "ruang": "Kamar Rahmi",
-      "foto": "assets/anggota/rahmi.jpg",
+      "id": "gempi",
+      "nama": "Gempi",
+      "ruang": "Kamar Gempi",
+      "foto": "assets/anggota/gempi.jpg",
       "warna": "#8A63C9",
       "sifat": "Pintar, ceria, penuh imajinasi, pandai seni",
-      "deskripsi": "Si bungsu, 11 tahun, yang kamarnya penuh cat dan buku. Rahmi mendongeng fabel ala si Kancil dengan tema yang lebih dalam, seperti tipu daya, kerakusan, dan pilihan sulit.",
+      "deskripsi": "Si bungsu, 11 tahun, yang kamarnya penuh cat dan buku. Gempi mendongeng fabel ala si Kancil dengan tema yang lebih dalam, seperti tipu daya, kerakusan, dan pilihan sulit.",
       "topik": ["Dongeng", "Fabel", "Cerita rakyat"],
       "akun": [
         { "platform": "youtube", "link": "" },
@@ -155,7 +155,7 @@
       ],
       "video": [
         {
-          "judul": "Ep-1 Si Kancil & Buaya", "link": "https://www.instagram.com/reel/DfRYYZDuP02/", "platform": "instagram", "tanggal": "2026-11-03", "thumbnail": "assets/video/rahmi-ep01.jpg", "pilihan": false,
+          "judul": "Ep-1 Si Kancil & Buaya", "link": "https://www.instagram.com/reel/DfRYYZDuP02/", "platform": "instagram", "tanggal": "2026-11-03", "thumbnail": "assets/video/gempi-ep01.jpg", "pilihan": false,
           "sumber": [
             { "judul": "The Different Faces of Sang Kancil, BiblioAsia (National Library Board Singapura)", "link": "https://biblioasia.nlb.gov.sg/all-sections/the-different-faces-of-sang-kancil/" },
             { "judul": "Sang Kancil, Wikipedia", "link": "https://en.wikipedia.org/wiki/Sang_Kancil" },
