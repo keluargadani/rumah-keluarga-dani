@@ -27,7 +27,10 @@ Video baru: tambahkan ke `video` milik anggota.
   "platform": "youtube",
   "tanggal": "2026-11-03",
   "thumbnail": "",
-  "pilihan": true
+  "pilihan": true,
+  "sumber": [
+    { "judul": "Bank Indonesia: Kurs", "link": "https://www.bi.go.id/" }
+  ]
 }
 ```
 
@@ -37,6 +40,7 @@ Video baru: tambahkan ke `video` milik anggota.
 | `tanggal` | format `TAHUN-BULAN-TANGGAL`, dipakai untuk mengurutkan video terbaru |
 | `thumbnail` | boleh kosong. YouTube otomatis. Untuk Instagram dan TikTok, taruh gambar di `assets/` lalu tulis path-nya, atau biarkan memakai gambar pengganti |
 | `pilihan` | `true` supaya video tampil di Galeri |
+| `sumber` | boleh dihapus. Daftar sumber informasi video, tampil di kartu video sebagai "Sumber" |
 
 Anggota baru: tambahkan satu objek di `anggota`. Halamannya otomatis ada di `kamar.html?anggota=<id>`.
 

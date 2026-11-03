@@ -94,7 +94,6 @@ const putarVideo = (video) => {
     src: embed,
     title: video.judul,
     allow: "autoplay; encrypted-media; picture-in-picture; fullscreen",
-    allowfullscreen: true,
     referrerpolicy: "strict-origin-when-cross-origin",
   });
   // Dialog dibuang dari halaman supaya video di dalamnya ikut berhenti.
@@ -131,6 +130,26 @@ const putarVideo = (video) => {
 };
 
 // ---------- Komponen ----------
+
+// Daftar sumber informasi video. Tidak tampil kalau video belum punya sumber.
+const daftarSumber = (video) => {
+  const sumber = (video.sumber ?? [])
+    .map((item) => ({ judul: item.judul, link: linkAman(item.link) }))
+    .filter((item) => item.link);
+  if (!sumber.length) return null;
+  return el(
+    "details",
+    { class: "sumber" },
+    el("summary", {}, `Sumber (${sumber.length})`),
+    el(
+      "ul",
+      {},
+      sumber.map((item) =>
+        el("li", {}, el("a", { href: item.link, target: "_blank", rel: "noopener" }, item.judul || new URL(item.link).hostname)),
+      ),
+    ),
+  );
+};
 
 const kartuVideo = (video, tampilkanPemilik = false) => {
   const link = linkAman(video.link);
@@ -174,6 +193,7 @@ const kartuVideo = (video, tampilkanPemilik = false) => {
         { class: "kecil" },
         [tampilkanPemilik ? video.anggota.nama : null, tanggal || null].filter(Boolean).join(" · "),
       ),
+      daftarSumber(video),
     ),
   );
 };

@@ -524,6 +524,28 @@ div.video-sampul {
   text-decoration: underline;
 }
 
+.sumber {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.sumber summary {
+  color: var(--terakota-tua);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.sumber ul {
+  margin: 0.35rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.sumber li {
+  margin-bottom: 0.3rem;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
 /* Pemutar */
 .pemutar {
   width: min(420px, 94vw);
