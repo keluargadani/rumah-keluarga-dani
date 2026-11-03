@@ -124,7 +124,20 @@
         { "platform": "instagram", "link": "https://www.instagram.com/afdiafdani/" },
         { "platform": "tiktok", "link": "" }
       ],
-      "video": []
+      "video": [
+        {
+          "judul": "Internet lu suka ngelag?", "link": "https://www.instagram.com/reel/DfRXeLxyq-u/", "platform": "instagram", "tanggal": "2026-11-03", "thumbnail": "assets/video/afdi-ep01.jpg", "pilihan": false,
+          "sumber": [
+            { "judul": "Linden Photonics, What is ONT?", "link": "https://www.lindenphotonics.com/what-is-ont-everything-you-need-to-know" },
+            { "judul": "RFC 2131, Dynamic Host Configuration Protocol", "link": "https://www.rfc-editor.org/rfc/rfc2131" },
+            { "judul": "ASUS, perbedaan 2.4GHz dan 5GHz", "link": "https://asus.com/support/FAQ/1044838" },
+            { "judul": "Barking Iguana, How WiFi Actually Works", "link": "https://barkingiguana.com/writing/how-wifi-actually-works/" },
+            { "judul": "Kevin Sookocheff, How does WiFi work?", "link": "https://sookocheff.com/post/networking/how-does-wifi-work/" },
+            { "judul": "Network Lessons, WPA and WPA2 4-Way Handshake", "link": "https://networklessons.com/wireless/wpa-and-wpa2-4-way-handshake" },
+            { "judul": "Wi-Fi Alliance, Security", "link": "https://www.wi-fi.org/discover-wi-fi/security" }
+          ]
+        }
+      ]
     },
     {
       "id": "rahmi",
@@ -140,7 +153,17 @@
         { "platform": "instagram", "link": "https://www.instagram.com/rahmirahmdni/" },
         { "platform": "tiktok", "link": "" }
       ],
-      "video": []
+      "video": [
+        {
+          "judul": "Ep-1 Si Kancil & Buaya", "link": "https://www.instagram.com/reel/DfRYYZDuP02/", "platform": "instagram", "tanggal": "2026-11-03", "thumbnail": "assets/video/rahmi-ep01.jpg", "pilihan": false,
+          "sumber": [
+            { "judul": "The Different Faces of Sang Kancil, BiblioAsia (National Library Board Singapura)", "link": "https://biblioasia.nlb.gov.sg/all-sections/the-different-faces-of-sang-kancil/" },
+            { "judul": "Sang Kancil, Wikipedia", "link": "https://en.wikipedia.org/wiki/Sang_Kancil" },
+            { "judul": "Dongeng Kancil dan Buaya, Katadata", "link": "https://katadata.co.id/amp/lifestyle/varia/687f688ecaa51/dongeng-kancil-dan-buaya-berikut-pesan-moral-yang-bisa-diambil/" },
+            { "judul": "The Clever Mouse-Deer and the Crocodiles, Nusantara Folktales", "link": "https://nusantarafolktales.bearblog.dev/the-clever-mouse-deer-and-the-crocodiles/" }
+          ]
+        }
+      ]
     },
     {
       "id": "keluarga",
