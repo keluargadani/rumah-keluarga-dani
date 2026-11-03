@@ -3,7 +3,7 @@
     {
       "id": "pak-dani",
       "nama": "Pak Dani",
-      "ruang": "Kamar Pak Dani",
+      "ruang": "Teras Pak Dani",
       "foto": "assets/anggota/pak-dani.jpg",
       "warna": "#2BA89B",
       "sifat": "Santai, kebapakan, suka usil",
@@ -29,7 +29,7 @@
     {
       "id": "bu-dani",
       "nama": "Bu Dani",
-      "ruang": "Kamar Bu Dani",
+      "ruang": "Dapur Bu Dani",
       "foto": "assets/anggota/bu-dani.jpg",
       "warna": "#E8586F",
       "sifat": "Peduli keluarga, tidak kaku, santai",
