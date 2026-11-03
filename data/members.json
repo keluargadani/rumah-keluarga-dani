@@ -150,12 +150,12 @@
       "topik": ["Dongeng", "Fabel", "Cerita rakyat"],
       "akun": [
         { "platform": "youtube", "link": "" },
-        { "platform": "instagram", "link": "https://www.instagram.com/rahmirahmdni/" },
+        { "platform": "instagram", "link": "https://www.instagram.com/gempitaramdani/" },
         { "platform": "tiktok", "link": "" }
       ],
       "video": [
         {
-          "judul": "Ep-1 Si Kancil & Buaya", "link": "https://www.instagram.com/reel/DfRYYZDuP02/", "platform": "instagram", "tanggal": "2026-11-03", "thumbnail": "assets/video/gempi-ep01.jpg", "pilihan": false,
+          "judul": "Ep1 - Si Kancil & Buaya", "link": "https://www.instagram.com/reel/DfRcMS8M19O/", "platform": "instagram", "tanggal": "2026-11-03", "thumbnail": "assets/video/gempi-ep01.jpg", "pilihan": false,
           "sumber": [
             { "judul": "The Different Faces of Sang Kancil, BiblioAsia (National Library Board Singapura)", "link": "https://biblioasia.nlb.gov.sg/all-sections/the-different-faces-of-sang-kancil/" },
             { "judul": "Sang Kancil, Wikipedia", "link": "https://en.wikipedia.org/wiki/Sang_Kancil" },
