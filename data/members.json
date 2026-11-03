@@ -15,15 +15,83 @@
         { "platform": "tiktok", "link": "" }
       ],
       "video": [
-        { "judul": "Apa itu mesin EDC?", "link": "https://www.youtube.com/shorts/aeVjSPOD3ik", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
-        { "judul": "Apa itu qris statis & dinamis", "link": "https://www.youtube.com/shorts/gZeLc7ISulY", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
-        { "judul": "Apa itu OJK", "link": "https://www.youtube.com/shorts/YoferIj6Db0", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
-        { "judul": "Apa itu LPS / Lembaga Penjamin Simpanan?", "link": "https://www.youtube.com/shorts/MFF7vCnkAVM", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
-        { "judul": "Kenapa bunga kredit bisa naik & turun?", "link": "https://www.youtube.com/shorts/DxK73IqX1ow", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
-        { "judul": "Apa itu likuiditas?", "link": "https://www.youtube.com/shorts/7u-dFp_ECak", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
-        { "judul": "Apa itu tabungan deposito?", "link": "https://www.youtube.com/shorts/4YeyhHzlegg", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
-        { "judul": "Apa itu tabungan giro?", "link": "https://www.youtube.com/shorts/QwSBW1Em8tg", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false },
-        { "judul": "Gimana sih cara Bank bekerja?", "link": "https://www.youtube.com/shorts/FEfnkP2THxY", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false }
+        { "judul": "Apa itu mesin EDC?", "link": "https://www.youtube.com/shorts/aeVjSPOD3ik", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "OJK Sikapi Uangmu: Hindari Double Swipe", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/10401" },
+            { "judul": "BI: Larangan Double Swipe", "link": "https://www.bi.go.id/id/edukasi/Pages/Larangan-Praktik-Double-Swipe-Gesek-Tunai-dan-Surcharge.aspx" },
+            { "judul": "BI: Metadata Infrastruktur APMK", "link": "https://www.bi.go.id/id/statistik/Metadata/metadata-SPIP/Documents/Tabel-5g.Infrastruktur-APMK+UE_ID.pdf" },
+            { "judul": "PBI No. 14/2/PBI/2012", "link": "https://www.bi.go.id/elicensing/helps/PBI%2014.2.2012%20-%20APMK.pdf" },
+            { "judul": "OJK Sikapi Uangmu: Skimming", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/10434" }
+          ]
+        },
+        { "judul": "Apa itu qris statis & dinamis", "link": "https://www.youtube.com/shorts/gZeLc7ISulY", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "BI: QRIS", "link": "https://www.bi.go.id/id/fungsi-utama/sistem-pembayaran/ritel/kanal-layanan/qris/default.aspx" },
+            { "judul": "OJK Sikapi Uangmu: Makin Mudah dan Aman dengan QRIS", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/10522" }
+          ]
+        },
+        { "judul": "Apa itu OJK", "link": "https://www.youtube.com/shorts/YoferIj6Db0", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "OJK: Tugas dan Fungsi", "link": "https://ojk.go.id/id/tentang-ojk/pages/tugas-dan-fungsi.aspx" },
+            { "judul": "OJK: Satgas PASTI, Mei 2026", "link": "https://ojk.go.id/id/berita-dan-kegiatan/info-terkini/Pages/Satgas-Pasti-Hentikan-953-Entitas-Pinjol-Ilegal-Dan-Penawaran-Investasi-Ilegal-Mei-2026.aspx" },
+            { "judul": "OJK: Satgas PASTI Imbau Waspadai Penipuan AI", "link": "https://ojk.go.id/id/berita-dan-kegiatan/info-terkini/Pages/Satgas-PASTI-Imbau-Masyarakat-Waspadai-Penipuan-Menggunakan-AI.aspx" }
+          ]
+        },
+        { "judul": "Apa itu LPS / Lembaga Penjamin Simpanan?", "link": "https://www.youtube.com/shorts/MFF7vCnkAVM", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "LPS: Profil", "link": "https://lps.go.id/profil/" },
+            { "judul": "LPS: Bank Peserta Penjaminan", "link": "https://lps.go.id/bank-peserta-penjaminan/" },
+            { "judul": "LPS: FAQ", "link": "https://lps.go.id/faq/" },
+            { "judul": "LPS: Simpanan yang Dijamin", "link": "https://lps.go.id/simpanan-yang-dijamin/" }
+          ]
+        },
+        { "judul": "Kenapa bunga kredit bisa naik & turun?", "link": "https://www.youtube.com/shorts/DxK73IqX1ow", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "OJK Sikapi Uangmu: Mengenal Jenis-jenis Suku Bunga Bank", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/20649" },
+            { "judul": "OJK: Siaran Pers POJK 13/2024", "link": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Dorong-Pembiayaan-Ekonomi-OJK-Terbitkan-Peraturan-Transparansi-Dan-Publikasi-SBDK-Bagi-Bank-Umum-Konvensional.aspx" },
+            { "judul": "BI: Asesmen Transparansi SBDK", "link": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Documents/Lampiran_Siaran_Pers_Asesmen_SBDK.pdf" },
+            { "judul": "BI: Asesmen Transmisi, Agustus 2026", "link": "https://www.bi.go.id/id/publikasi/laporan/Documents/Lampiran-TKM-Agustus-2026.pdf" },
+            { "judul": "BI: Siaran Pers 18 Juni 2026", "link": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2812626.aspx" },
+            { "judul": "BI: Siaran Pers BI-Rate", "link": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2715325.aspx" }
+          ]
+        },
+        { "judul": "Apa itu likuiditas?", "link": "https://www.youtube.com/shorts/7u-dFp_ECak", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "OJK Sikapi Uangmu: Kenali Rasio Keuangan", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/40786" },
+            { "judul": "POJK 18/POJK.03/2016 tentang Manajemen Risiko", "link": "https://www.ojk.go.id/id/kanal/perbankan/regulasi/peraturan-ojk/Documents/Pages/POJK-Nomor-18.POJK.03.2016/SAL%20-%20POJK%20Manajemen%20Risiko%20.pdf" },
+            { "judul": "BI: Instrumen Makroprudensial", "link": "https://www.bi.go.id/id/fungsi-utama/stabilitas-sistem-keuangan/instrumen-makroprudensial/default.aspx" },
+            { "judul": "PBI No. 10 Tahun 2023", "link": "https://www.bi.go.id/id/publikasi/peraturan/Documents/PBI_102023.pdf" },
+            { "judul": "OJK Sikapi Uangmu: Jenis Simpanan di Bank", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/20563" }
+          ]
+        },
+        { "judul": "Apa itu tabungan deposito?", "link": "https://www.youtube.com/shorts/4YeyhHzlegg", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "OJK Sikapi Uangmu: Jenis Simpanan di Bank", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/20563" },
+            { "judul": "OJK Sikapi Uangmu: Deposito", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/68" },
+            { "judul": "OJK Sikapi Uangmu: \"Berinvestasi\" Melalui Deposito", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/252" },
+            { "judul": "UU No. 10/1998 di situs OJK", "link": "https://www.ojk.go.id/sustainable-finance/id/peraturan/undang-undang/Documents/UU_NO_10_1998%20Tentang%20Perbankan.PDF" }
+          ]
+        },
+        { "judul": "Apa itu tabungan giro?", "link": "https://www.youtube.com/shorts/QwSBW1Em8tg", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "OJK Sikapi Uangmu: Pakai Giro", "link": "https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/40745" },
+            { "judul": "BI: PBI No. 18/41/PBI/2016", "link": "https://www.bi.go.id/id/publikasi/peraturan/Pages/PBI_184116.aspx" },
+            { "judul": "UU No. 10/1998 di situs OJK", "link": "https://www.ojk.go.id/sustainable-finance/id/peraturan/undang-undang/Documents/UU_NO_10_1998%20Tentang%20Perbankan.PDF" },
+            { "judul": "BI: Daftar Hitam Nasional", "link": "https://www.bi.go.id/id/archive/kodifikasi-peraturan/Documents/Daftar%20Hitam%20Nasional.pdf" }
+          ]
+        },
+        { "judul": "Gimana sih cara Bank bekerja?", "link": "https://www.youtube.com/shorts/FEfnkP2THxY", "platform": "youtube", "tanggal": "2026-11-02", "thumbnail": "", "pilihan": false,
+          "sumber": [
+            { "judul": "OJK: Bank Umum", "link": "https://ojk.go.id/id/kanal/perbankan/Pages/Bank-Umum.aspx" },
+            { "judul": "OJK: Tugas dan Fungsi", "link": "https://ojk.go.id/id/tentang-ojk/pages/tugas-dan-fungsi.aspx" },
+            { "judul": "BI: Instrumen Makroprudensial", "link": "https://www.bi.go.id/id/fungsi-utama/stabilitas-sistem-keuangan/instrumen-makroprudensial/default.aspx" },
+            { "judul": "Peraturan BI 20/3/PBI/2018", "link": "https://www.bi.go.id/id/publikasi/peraturan/Documents/PBI-200318.pdf" },
+            { "judul": "LPS: FAQ", "link": "https://lps.go.id/faq/" },
+            { "judul": "Laporan Tahunan LPS 2024", "link": "https://lps.go.id/laporan-tahunan-lps-2024/" },
+            { "judul": "Kalkulator 3T", "link": "https://apps.lps.go.id/kalkulator3T" },
+            { "judul": "Bank of England, 2014", "link": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy" }
+          ]
+        }
       ]
     },
     {
