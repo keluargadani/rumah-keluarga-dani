@@ -131,6 +131,22 @@
       ],
       "video": [
         {
+          "judul": "Cuma ngerti 0 dan 1?", "link": "https://www.instagram.com/reel/DfT3RQ0yiOU/", "platform": "instagram", "tanggal": "2026-11-04", "thumbnail": "assets/video/afdi-ep02.jpg", "pilihan": false,
+          "sumber": [
+            { "judul": "Britannica: Binary code", "link": "https://www.britannica.com/technology/binary-code" },
+            { "judul": "Britannica: Transistor", "link": "https://www.britannica.com/technology/transistor" },
+            { "judul": "Intel: Digital Information", "link": "https://www.intel.com/content/www/us/en/education/k12/the-journey-inside/explore-the-curriculum/digital-information.html" },
+            { "judul": "Intel: Computer RAM", "link": "https://www.intel.com/content/www/us/en/tech-tips-and-tricks/computer-ram.html" },
+            { "judul": "Britannica: RAM", "link": "https://www.britannica.com/technology/RAM-computing" },
+            { "judul": "Britannica: Instruction-level parallelism", "link": "https://www.britannica.com/technology/instruction-level-parallelism" },
+            { "judul": "Intel: CPU vs GPU", "link": "https://www.intel.com/content/www/us/en/products/docs/processors/cpu-vs-gpu.html" },
+            { "judul": "Intel: What Is a GPU", "link": "https://www.intel.com/content/www/us/en/products/docs/processors/what-is-a-gpu.html" },
+            { "judul": "NVIDIA: What Is FPS", "link": "https://www.nvidia.com/en-us/geforce/news/what-is-fps-and-how-it-helps-you-win-games/" },
+            { "judul": "Intel: Refresh Rate", "link": "https://www.intel.com/content/www/us/en/gaming/resources/highest-refresh-rate-gaming.html" },
+            { "judul": "Steam: Dota 2", "link": "https://store.steampowered.com/app/570/Dota_2/" }
+          ]
+        },
+        {
           "judul": "Internet lu suka ngelag?", "link": "https://www.instagram.com/reel/DfRXeLxyq-u/", "platform": "instagram", "tanggal": "2026-11-03", "thumbnail": "assets/video/afdi-ep01.jpg", "pilihan": false,
           "sumber": [
             { "judul": "Linden Photonics, What is ONT?", "link": "https://www.lindenphotonics.com/what-is-ont-everything-you-need-to-know" },
@@ -159,6 +175,14 @@
         { "platform": "tiktok", "link": "" }
       ],
       "video": [
+        {
+          "judul": "Ep2 - Si Kancil & Siput", "link": "https://www.instagram.com/reel/DfT2tuvva_m/", "platform": "instagram", "tanggal": "2026-11-04", "thumbnail": "assets/video/gempi-ep02.jpg", "pilihan": false,
+          "sumber": [
+            { "judul": "Orami: Cerita Fabel", "link": "https://www.orami.co.id/magazine/cerita-fabel" },
+            { "judul": "Popmama: Cerita Dongeng Si Kancil dan Siput", "link": "https://www.popmama.com/kid/4-5-years-old/cerita-dongeng-anak-si-kancil-dan-siput-00-gjmqj-zqpphn" },
+            { "judul": "Katadata: Dongeng Kancil dan Siput", "link": "https://katadata.co.id/amp/lifestyle/varia/652e39b03b45c/dongeng-sebelum-tidur-tentang-kancil-dan-siput-yang-inspiratif" }
+          ]
+        },
         {
           "judul": "Ep1 - Si Kancil & Buaya", "link": "https://www.instagram.com/reel/DfRcMS8M19O/", "platform": "instagram", "tanggal": "2026-11-03", "thumbnail": "assets/video/gempi-ep01.jpg", "pilihan": false,
           "sumber": [
